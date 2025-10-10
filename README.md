@@ -26,7 +26,7 @@
 - **Virtual Bank Accounts:** Easily open multi-currency virtual accounts (USD, EUR, MXN, etc.) for simplified international transactions.
 - **Seamless Conversion:** Integrated fiat-to-crypto and crypto-to-fiat on/off ramps.
 - **Global Visa Card:** Get a virtual or physical Visa card. Spend globally by instantly converting crypto to fiat at point of sale. Accepted by millions of merchants worldwide.
-- **Growing Use Cases:** Continuously integrating daily life scenarios like travel, ticketing, and扫码支付 (QR code payments).
+- **Growing Use Cases:** Continuously integrating daily life scenarios like travel, ticketing, and QR code payments.
 
 #### 3. 🛠️ Developer Platform
 - **Comprehensive APIs/SDKs:** Rich Open APIs and SDKs for messaging, user management, groups, and most importantly, payments.
@@ -36,7 +36,7 @@
 
 #### 4. 🌐 Financial & Concierge Services (for VIPs)
 - **Global Luxury Hotel Booking:** Access to 8000+ luxury hotels with exclusive benefits.
-- **Airport VIP Services:** Global coverage of 1224+ lounges, fast-track通道 at 80+ airports, and premium chauffeur services.
+- **Airport VIP Services:** Global coverage of 1224+ lounges, fast-track at 80+ airports, and premium chauffeur services.
 - **Private Jet Charter:** Customized private flight experiences with luxury amenities.
 - **Premium Event Tickets:** Access to top global events (Fashion Weeks, Oscars, NBA, World Cup, etc.).
 
@@ -50,7 +50,7 @@
 ### 🗺️ Roadmap
 
 - **Q3 2025:** Developer Platform V1.0 launch, initial developer onboarding. Expand high-frequency use cases.
-- **Q4 2025:** Strengthen legal framework (AU/EU licensing), expand enterprise user推广.
+- **Q4 2025:** Strengthen legal framework (AU/EU licensing), expand enterprise user.
 - **Q1 2026:** Foster a thriving developer ecosystem. Integrate QR code payments with key merchants.
 - **Q2 2026:** Become a leading global crypto lifestyle platform and a significant cross-border payment tool.
 
