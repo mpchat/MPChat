@@ -13,7 +13,7 @@
 ### ✨ Core Features
 
 #### 1. 💬 Encrypted Instant Messaging
-- **Military-Grade Security:** Industry-leading End-to-End Encryption (E2EE) and local data storage ensure your conversations remain private.
+- **Top-Level Security:** Industry-leading End-to-End Encryption (E2EE) and local data storage ensure your conversations remain private.
 - **Ephemeral Messages:** "Burn-after-reading" and other privacy settings give you ultimate control.
 - **High-Quality Calls:** Enjoy crystal-clear encrypted voice and video communications.
 - **Powerful Groups:** Rich group features and management tools for effective community building.
